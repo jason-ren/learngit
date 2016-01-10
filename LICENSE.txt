@@ -1,2 +1,1 @@
-hello linux
-Jason
+Authored by Jason.
